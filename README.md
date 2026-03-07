@@ -6,23 +6,24 @@ Joomla extension developer building lightweight tools for Joomla 6
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔧 Building **Joomla 6 extensions**
-- ⚡ Lightweight **Bootstrap 5 UI plugins**
-- 🧩 Open source Joomla tools
+I develop modern and lightweight extensions for **Joomla 6**.
 
----
-
-### 🛠 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=php,js,bootstrap,css,html,git,github"/>
-</p>
+Focused on:
+- Joomla extensions
+- Bootstrap 5 UI components
+- Practical plugins for real projects
 
 ---
 
-### ⭐ Featured Projects
+## 🛠 Tech I Use
+
+PHP • Joomla • Bootstrap 5 • JavaScript • CSS
+
+---
+
+## ⭐ Featured Projects
 
 - https://github.com/joomtheme/joomla-cookienotice-plugin  
 - https://github.com/joomtheme/mod_jtsmartmodal  
@@ -30,22 +31,10 @@ Joomla extension developer building lightweight tools for Joomla 6
 
 ---
 
-### 📊 GitHub Stats
+## 🌐 Links
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joomtheme&show_icons=true&theme=dark)
-
----
-
-### 🔥 Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=joomtheme&theme=dark)
-
----
-
-### 🌍 Links
-
-Website  
-https://joomtheme.com / https://joomlatr.org
+Websites  
+https://joomtheme.com  /  https://joomlatr.org
 
 X  
-https://x.com/joomthemes / https://x.com/joomlatr
+https://x.com/joomlacmstr / https://x.com/joomlatr
