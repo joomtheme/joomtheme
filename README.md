@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋 I'm Ugur</h1>
 
 <p align="center">
-Joomla extension developer building lightweight tools for Joomla 6
+Joomla! extension developer building lightweight tools for Joomla! 6
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I develop modern and lightweight extensions for **Joomla 6**.
+I develop modern and lightweight extensions for **Joomla! 6**.
 
 Focused on:
-- Joomla extensions
+- Joomla! extensions
 - Bootstrap 5 UI components
 - Practical plugins for real projects
 
@@ -19,7 +19,7 @@ Focused on:
 
 ## 🛠 Tech I Use
 
-PHP • Joomla • Bootstrap 5 • JavaScript • CSS
+PHP • Joomla! • Bootstrap 5 • JavaScript • CSS
 
 ---
 
