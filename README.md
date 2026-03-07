@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Ugur 👋
 
-<!--
-**joomtheme/joomtheme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Joomla extension developer building lightweight and modern tools for Joomla 6.
 
-Here are some ideas to get you started:
+## 🚀 What I build
+- Joomla 6 extensions
+- Bootstrap 5 UI components
+- Lightweight performance-focused plugins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐ Featured projects
+- https://github.com/joomtheme/joomla-cookienotice-plugin
+- https://github.com/joomtheme/mod_jtsmartmodal
+- https://github.com/joomtheme/header-search-popup
+
+## 🛠 Tech stack
+PHP • Joomla • Bootstrap 5 • JavaScript • CSS
+
+## 🌐 Links
+Website: https://joomtheme.com  
+X: https://x.com/joomlacmstr
