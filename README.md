@@ -37,4 +37,4 @@ Websites
 https://joomtheme.com  /  https://joomlatr.org
 
 X  
-https://x.com/joomlacmstr / https://x.com/joomlatr
+https://x.com/joomthemes / https://x.com/joomlatr
