@@ -16,5 +16,5 @@ I'm a Joomla extension developer building lightweight and modern tools for Jooml
 PHP • Joomla • Bootstrap 5 • JavaScript • CSS
 
 ## 🌐 Links
-Website: https://joomtheme.com  
-X: https://x.com/joomlacmstr
+Website: https://joomtheme.com / https://joomlatr.org
+X: https://x.com/joomthemes / https://x.com/joomlatr
