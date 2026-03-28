@@ -29,6 +29,8 @@ PHP • Joomla! • Bootstrap 5 • JavaScript • CSS
 - https://github.com/joomtheme/mod_jtsmartmodal  
 - https://github.com/joomtheme/header-search-popup
 - https://github.com/joomtheme/mod_jtwhatsapp
+- https://github.com/joomtheme/mod-jtbootstrapbuttons
+- 
 
 ---
 
