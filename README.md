@@ -1,85 +1,67 @@
-<h1 align="center">Hi, I'm Uğur 👋</h1>
+<h1 align="center">JoomTheme</h1>
 
 <p align="center">
-  <strong>Joomla! Extension Developer · PHP Developer · Founder of Joomla Türkiye</strong>
+  <strong>Joomla extensions &amp; custom development</strong><br>
+  Practical tools for site owners, developers and agencies.
 </p>
 
 <p align="center">
-  I build lightweight, maintainable and production-ready Joomla! extensions for real-world websites.
+  <a href="https://joomtheme.com">Website</a> ·
+  <a href="#selected-projects">Projects</a> ·
+  <a href="#custom-joomla-development">Custom development</a> ·
+  <a href="https://joomlatr.org">Joomla Türkiye</a>
 </p>
+
+I'm Uğur, the developer behind JoomTheme and founder of Joomla Türkiye. I build Joomla extensions and PHP tools with a focus on native integration, clear interfaces and maintainable code.
+
+## Selected projects
+
+| Project | What it helps you do |
+| --- | --- |
+| **[JT SEO Control Center](https://github.com/joomtheme/JT-SEO-Control-Center)** | Manage metadata, XML sitemaps, structured data and redirects from Joomla's administrator interface. |
+| **[JoomTheme Gallery](https://github.com/joomtheme/JoomTheme-Gallery)** | Organize galleries and publish images with a native component, responsive module and keyboard-friendly lightbox. |
+| **[JT ArticleX PRO](https://github.com/joomtheme/JT-ArticleX-Pro-Module)** | Present Joomla articles in Bootstrap-based carousel, grid, list and magazine layouts. |
+| **[JT Navi](https://github.com/joomtheme/jt-navi)** | Help visitors find public articles and curated sources through guided questions and local search. |
+| **[JoomCode](https://github.com/joomtheme/JoomCode)** | Add syntax highlighting, line numbers and copy controls to code examples in Joomla content. |
+| **[JT Position Finder](https://github.com/joomtheme/JT-Position-Finder)** | Find, preview and select template module positions from the module edit screen. |
+
+Each repository includes its own installation instructions and compatibility requirements. Follow the project's download instructions to get an installable Joomla package.
+
+## Custom Joomla development
+
+**Need a Joomla extension built around your workflow?**
+
+JoomTheme offers custom Joomla development for businesses, agencies and site owners. Whether you need a dedicated component, a focused plugin or a module tailored to your website, the starting point is the problem you want to solve.
+
+- **Custom extensions:** components, modules and plugins for specific content and business workflows.
+- **Integrations:** connect Joomla with external APIs and services.
+- **Extension customization:** adapt features, administration screens and frontend layouts to your requirements.
+
+Share your Joomla version, existing extensions, the workflow you need and any relevant examples. We can then discuss feasibility, scope, deliverables and a proposed timeline before development begins.
+
+**[Discuss your project](mailto:support@joomtheme.com)** · [Visit JoomTheme](https://joomtheme.com)
+
+## Development approach
+
+- **Native Joomla integration:** use Joomla APIs and extension patterns, with an emphasis on avoiding core modifications.
+- **Focused interfaces:** keep administration familiar and frontend assets proportionate to the feature.
+- **Accessibility and localization:** consider keyboard use, clear labels and language support during development.
+- **Maintainability:** favor readable source, documented requirements and clear release notes.
+
+**Core technologies:** Joomla · PHP · JavaScript · Bootstrap · HTML/CSS · MySQL
+
+## Community
+
+Through **[Joomla Türkiye](https://joomlatr.org)**, I contribute community resources, localization work and practical knowledge for Turkish-speaking Joomla users and developers.
+
+## Support & contributions
+
+For bugs and feature requests, open an issue in the relevant repository and include your Joomla/PHP versions, reproduction steps and expected behavior. Follow the project's contribution and security guidance where provided.
+
+For custom development enquiries, contact **[support@joomtheme.com](mailto:support@joomtheme.com)**.
 
 <p align="center">
-  <a href="https://joomtheme.com">
-    <img src="https://img.shields.io/badge/Website-joomtheme.com-5091CD?style=flat-square" />
-  </a>
-  <a href="https://joomlatr.org">
-    <img src="https://img.shields.io/badge/Community-Joomla%20Türkiye-5091CD?style=flat-square&logo=joomla&logoColor=white" />
-  </a>
-  <a href="https://x.com/joomthemes">
-    <img src="https://img.shields.io/badge/X-@joomthemes-000000?style=flat-square&logo=x&logoColor=white" />
-  </a>
-</p>
-
----
-
-## About
-
-I am a PHP and Joomla! extension developer focused on building practical, clean and sustainable tools for Joomla-based projects.
-
-My work is centered around helping site owners, developers and agencies create better Joomla websites with less complexity. I care about clean code, simple user experience, maintainability and long-term usability.
-
-I am also the founder of **Joomla Türkiye**, where I contribute to the Joomla ecosystem in Turkey through community resources, localization efforts and Joomla-focused projects.
-
----
-
-## What I Build
-
-* Joomla! extensions, plugins and components
-* PHP-based web tools and integrations
-* Bootstrap 5 powered user interfaces
-* Practical tools for agencies and website owners
-* Community and localization projects for Joomla
-
----
-
-## Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Joomla!-5091CD?style=flat-square&logo=joomla&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
----
-
-## Projects
-
-### JoomTheme
-
-Joomla themes, extensions and tools for modern Joomla websites.
-https://joomtheme.com
-
-### Joomla Türkiye
-
-Official Joomla community resources, localization and ecosystem support in Turkey.
-https://joomlatr.org
-
----
-
-## Focus Areas
-
-* Clean and maintainable Joomla development
-* Lightweight extensions with practical use cases
-* Developer-friendly structure and documentation
-* Simple, accessible and responsive interfaces
-* Supporting the Joomla community in Turkey
-
----
-
-<p align="center">
-  Building useful Joomla tools with clean code, practical features and simple user experience.
+  <a href="https://joomtheme.com">JoomTheme</a> ·
+  <a href="https://joomlatr.org">Joomla Türkiye</a> ·
+  <a href="https://x.com/joomthemes">X / @joomthemes</a>
 </p>
